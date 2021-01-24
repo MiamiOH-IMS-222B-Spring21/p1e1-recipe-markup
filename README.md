@@ -28,7 +28,7 @@ Mark up your recipe information paragraphs.
 Turn your recipe ingredients into an unordered list (bulleted).
 List the instruction steps using an ordered list (numbered).
 Add Image and Give Credit 
-Above your '<h1>', add your image. Don't forget to include the alt= attribute in your image element.
+Above your `<h1>`, add your image. Don't forget to include the alt= attribute in your image element.
 Create a paragraph with links to where you found your recipe, history, and image.  This is citing your sources. 
 Last, but not least, give yourself credit in a final paragraph.
 Submission method and due date
