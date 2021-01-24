@@ -6,13 +6,14 @@ This is the first exercise in a project arc to create an online recipe book. Ove
 
 ## Instructions
 
-Preparation
-Create an IMS222 folder for all your coding projects
-Download this project's starter packs containing the text of the recipes and images for each recipe.
-recipesproject-main.zip
-Expand zip file and move folder to your IMS projects folder
-Change "main" in the folder name to your MU ID. For example...
-recipesproject-yarnete
+### Preparation
+
++ Create an IMS222 folder for all your coding projects
++ Download this project's starter packs containing the text of the recipes and images for each recipe.
+++ recipesproject-main.zip
++ Expand zip file and move folder to your IMS projects folder
++ Change "main" in the folder name to your MU ID. For example...
+++ recipesproject-yarnete
 In Brackets, go to the file menu and "Open Folder" and select this folder.
 In the left column, you'll now see all of these files.
 Markup Your Content
