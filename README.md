@@ -10,19 +10,20 @@ This is the first exercise in a project arc to create an online recipe book. Ove
 
 + Create an IMS222 folder for all your coding projects
 + Download this project's starter packs containing the text of the recipes and images for each recipe.
-++ recipesproject-main.zip
+  + recipesproject-main.zip
 + Expand zip file and move folder to your IMS projects folder
 + Change "main" in the folder name to your MU ID. For example...
-++ recipesproject-yarnete
-In Brackets, go to the file menu and "Open Folder" and select this folder.
-In the left column, you'll now see all of these files.
-Markup Your Content
+  + recipesproject-yarnete
++ In Brackets, go to the file menu and "Open Folder" and select this folder.
++ In the left column, you'll now see all of these files.
+
+### Markup Your Content
 For each of the recipes....
-Copy the <head> section from the sample and paste it  
-Referring to our HTML syntax and basic elements pages in Module 3
-Start with the headers.
-Create an H1 header for title of the recipe. (This is your page title)
-Create H2 headers for your page sections such as recipe history, ingredients, and instructions.
++ Copy the <head> section from the sample and paste it  
++ Referring to our HTML syntax and basic elements pages in Module 3
++ Start with the headers.
+  + Create an H1 header for title of the recipe. (This is your page title)
+  + Create H2 headers for your page sections such as recipe history, ingredients, and instructions.
 Mark up your recipe information paragraphs.
 Turn your recipe ingredients into an unordered list (bulleted).
 List the instruction steps using an ordered list (numbered).
