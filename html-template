@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- the head section is for data about the webpage. Title is mandatory -->
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cucumber-Basil Dressing</title>
+    <meta name="description" content="Farmer's Market Recipe">
+    <meta name="author" content="Your Name Here">
+
+</head>
+
+<body>
+
+    <!-- the body section is for your webpage content -->
+
+</body>
+
+</html>
